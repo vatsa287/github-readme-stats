@@ -98,7 +98,6 @@ const themes = {
   nightowl: {
     title_color: "c792ea",
     icon_color: "ffeb95",
-    text_color: "7fdbca",
     bg_color: "011627",
   },
   buefy: {
@@ -129,7 +128,7 @@ const themes = {
     title_color: "1af01a",
     icon_color: "1af01a",
     text_color: "1af01a",
-    bg_color: "000000",
+    bg_color: "151515",
   }
 };
 
