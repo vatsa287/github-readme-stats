@@ -125,6 +125,12 @@ const themes = {
     text_color: "ffd95b",
     bg_color: "000000",
   },
+  "neonify":{
+    title_color: "1af01a",
+    icon_color: "1af01a",
+    text_color: "1af01a",
+    bg_color: "151515",
+  },
 };
 
 module.exports = themes;
